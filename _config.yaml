@@ -3,3 +3,5 @@ exclude:
   - LICENSE
 email: 2084751346@qq.com
 theme: jekyll-theme-tactile
+title: 请输入标题
+description: 请输入简介
