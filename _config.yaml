@@ -1,0 +1,5 @@
+exclude:
+  - README.md
+  - LICENSE
+email: 2084751346@qq.com
+theme: jekyll-theme-tactile
