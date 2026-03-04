@@ -3,6 +3,7 @@ exclude:
   - LICENSE
 email: 2084751346@qq.com
 theme: jekyll-theme-cayman
+title: hqc8848
 plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
