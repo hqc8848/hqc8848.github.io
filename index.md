@@ -6,4 +6,4 @@ redirect_from:
   - /home.html
 ---
 
-- [（污）画师合集](/colletion/artists "污图画师合集")
+- [（污）画师合集](/collection/artists "污图画师合集")
