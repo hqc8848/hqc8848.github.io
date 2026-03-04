@@ -1,7 +1,7 @@
 ---
 title: "黑青菜·合集"
 description: 这里存放了一些我找到的<s>不咋正经的</s>画师，成分不恰当的画师会被折叠起来<br>不会添加画师的非官方以及国内转载链接，因为不稳定
-permalink: /collection/
+permalink: /collection/artists
 redirect_from:
   - /collection/index.html
 ---

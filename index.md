@@ -6,10 +6,4 @@ redirect_from:
   - /home.html
 ---
 
-<details>
-<summary>以下内容可能引人不适，斟酌观看！</summary>
-
-- [画师及图片合集](/colletion/ "不包含音视频")
-- [音视频合集](/collection/audio "不包含画师及图片")
-
-</details>
+- [（污）画师合集](/colletion/artists "污图画师合集")
