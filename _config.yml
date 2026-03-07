@@ -5,6 +5,7 @@ email: 2084751346@qq.com
 theme: jekyll-theme-cayman
 title: 黑青菜
 permalink : pretty
+markdown: kramdown
 plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
