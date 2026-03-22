@@ -1,10 +1,13 @@
 ---
-title: "我该去哪【do sth.】"
+title: "指南"
 description: 各类资源链接
-permalink: /wheredoi/
+permalink: /guide/
 redirect_from:
+  - /wherecani/
+  - /wheredoi/
   - /where/
   - /howcani/
+  - /howdoi/
   - /how/
 ---
 
@@ -19,5 +22,11 @@ redirect_from:
 ## 囊中羞涩
 
 如果需要*某些*付费内容，但是没有足够的【大洋】，可以访问[kemono](https://kemono.cr "Kemono")，公开的付费内容档案网站[^1]，囊括[patreon](https://patreon.com "Patreon")、[fanbox](https://fanbox.cc "pixivFANBOX")、[substar](https://subscribestar.com "SubscribeStar")，甚至是[爱发电](https://afdian.com "爱发电")
+
+## 与国际接轨
+
+如果你需要访问境外网站，可以访问[ssrdog](https://dog1.hosbbq.com "目前可用的SSRDOG最新链接发布站")，提供多种代理服务套餐，下至一个月150G，上至三年，并且有按量购买的选择，400RMB即可获得1000G流量，十分划算
+
+---
 
 [^1]: 具体来说就是别人花钱买下内容，投放到网站上，供他人免费使用

@@ -5,20 +5,30 @@ permalink: /collection/artists/
 redirect_from:
   - /collection/artist/
   - /collection/
+  - /artists/
+  - /artist/
 ---
 
-- あんている<br>（[👍Pixiv👍](https://pixiv.net/users/78912866 "Pixiv，推荐")、[X](https://x.com/anteiru3939 "X")、[Fanbox](https://anteiru03939.fanbox.cc "Fanbox")）
-- S. Zukafu<br>（[👍Patreon👍](https://patreon.com/Zukafushimoto/ "Patreon，推荐")、[X](https://x.com/SZukafu "X")）
-- なる。<br>（[👍Pixiv👍](https://www.pixiv.net/users/111230839 "Pixiv，推荐")、[X](https://x.com/naru_wassaa0 "X")、[Skeb](https://skeb.jp/@hamazaki_naru "Skeb")）
-- ミケの人<br>（[👍Patreon👍](https://www.patreon.com/cw/doremifaso64/home "Patreon，推荐")、[X](https://x.com/doremifaso64 "X")、[BOOTH](https://doremifaso64.booth.pm "BOOTH")）
-- 氯酸钾的分解<br>（[👍Pixiv👍](https://www.pixiv.net/users/32221908 "Pixiv，推荐")、[X](https://x.com/BKclo3 "X")）
-- What If Animation<br>（[👍Patreon👍](https://www.patreon.com/cw/WhatifAnimation/home "Patreon，推荐")、[🌲Linktree🌲](https://linktr.ee/wiastories.official "Linktree，链接聚合")、[X](https://x.com/WhatifAnimation "X")）
-- Shiba<br>（）
-- Zyneru<br>（）
-- diives<br>（）
+- あんている<br>（[👍蓝p👍](https://pixiv.net/users/78912866 "pixiv，推荐")、[x](https://x.com/anteiru3939 "X")、[fanbox](https://anteiru03939.fanbox.cc "pixivFANBOX")）
+- S. Zukafu<br>（[👍红p👍](https://patreon.com/Zukafushimoto "Patreon，推荐")、[x](https://x.com/SZukafu "X")、[kofi](https://ko-fi.com/shimotozukafucommissionsopened2024 "Ko-fi")）
+- なる。<br>（[👍蓝p👍](https://www.pixiv.net/users/111230839 "pixiv，推荐")、[x](https://x.com/naru_wassaa0 "X")、[skeb](https://skeb.jp/@hamazaki_naru "Skeb")）
+- ミケの人<br>（[👍红p👍](https://www.patreon.com/doremifaso64 "Patreon，推荐")、[x](https://x.com/doremifaso64 "X")、[booth](https://doremifaso64.booth.pm "BOOTH")）
+- 氯酸钾的分解<br>（[👍蓝p👍](https://www.pixiv.net/users/32221908 "pixiv，推荐")、[x](https://x.com/BKclo3 "X")）
+- What If Animation<br>（[👍红p👍](https://www.patreon.com/WhatifAnimation "Patreon，推荐")、[🌲linktree🌲](https://linktr.ee/wiastories.official "Linktree，链接聚合")、[x](https://x.com/WhatifAnimation "X")）
+- Shiba<br>（[👍红p👍](https://www.patreon.com/shibashiba "Patreon，推荐")、[x](https://x.com/ShibaNSFW "X")）
+- Zyneru<br>（[👍x👍](https://x.com/zyneru "X，推荐")、[kofi](https://ko-fi.com/zyneru "Ko-fi")）
+- diives[^*]<br>（[👍红p👍](https://www.patreon.com/diives "Patreon，推荐")、[🌲linktree🌲](https://linktr.ee/diivesart "Linktree，链接聚合")）
 - JJune<br>（）
 - TWIN<br>（）
-- Cotu (unsure)
-- DoriDoriko
-- TonyToran
-- Anna Anon
+- Cotu<br>（）
+- DoriDoriko<br>（）
+- TonyToran<br>（）
+- Anna Anon<br>（）
+- 逆流茶会<br>（）
+- トプ<br>（[👍蓝p👍](https://www.pixiv.net/users/5850450 "pixiv，推荐")、[x](https://x.com/topu2782 "X")、[fanbox](https://topu.fanbox.cc "pixivFANBOX")）
+- 面具blhazx<br>（）
+- 桜乃実咲<br>（）
+- HMM<br>（）
+- 洛亚希RakuAki<br>（）
+
+[^*]: 链接大量缺失（少量缺失者不算），可能需要自行搜索或者其内有链接聚合类链接
