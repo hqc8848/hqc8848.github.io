@@ -17,7 +17,7 @@ redirect_from:
 - What If Animation<br>（[👍红p👍](https://www.patreon.com/WhatifAnimation "Patreon，推荐")、[🌲linktree🌲](https://linktr.ee/wiastories.official "Linktree，链接聚合")、[x](https://x.com/WhatifAnimation "X")）
 - Shiba<br>（[👍红p👍](https://www.patreon.com/shibashiba "Patreon，推荐")、[x](https://x.com/ShibaNSFW "X")）
 - Zyneru<br>（[👍x👍](https://x.com/zyneru "X，推荐")、[kofi](https://ko-fi.com/zyneru "Ko-fi")）
-- diives[^*]<br>（[👍红p👍](https://www.patreon.com/diives "Patreon，推荐")、[🌲linktree🌲](https://linktr.ee/diivesart "Linktree，链接聚合")）
+- diives[^\*]<br>（[👍红p👍](https://www.patreon.com/diives "Patreon，推荐")、[🌲linktree🌲](https://linktr.ee/diivesart "Linktree，链接聚合")）
 - JJune<br>（）
 - TWIN<br>（）
 - Cotu<br>（）
@@ -31,4 +31,4 @@ redirect_from:
 - HMM<br>（）
 - 洛亚希RakuAki<br>（）
 
-[^*]: 链接大量缺失（少量缺失者不算），可能需要自行搜索或者其内有链接聚合类链接
+[^\*]: 链接大量缺失（少量缺失者不算），可能需要自行搜索或者其内有链接聚合类链接
