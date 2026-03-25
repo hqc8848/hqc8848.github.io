@@ -1,7 +1,7 @@
 ---
 title: 合集
 description: 集合了【403 Forbidden】内容的音视频、图片以及画师
-permalink: /collection/home/
+permalink: /collection/
 redirect_from:
   - /collection/all/
   - /collection/home/
