@@ -4,7 +4,6 @@ description: 这里存放了一些我找到的或耳闻的画师，有污的也�
 permalink: /collection/artists/
 redirect_from:
   - /collection/artist/
-  - /collection/
   - /artists/
   - /artist/
 ---
