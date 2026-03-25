@@ -1,10 +1,11 @@
 ---
 title: "主页"
-description: 这里陈列了绝大部分<s>我愿意写上的</s>子页面
+description: 这里陈列了该网站上的子页面
 permalink: /
 redirect_from:
   - /home/
 ---
 
-- [画师合集](/collection/artists/ "污图画师合集")
-- [指南大全](/guide/ "各类资源链接集锦")
+- [[XX]合集](/collection/ "2D-2.5D-3D【403 Forbidden】合集") - 2D-2.5D-3D【403 Forbidden】合集
+- [指南大全](/guide/ "各类资源链接集锦") - 各类资源链接集锦
+- [加密沟通](/encryption/ "保障小纸条安全") - 保障小纸条安全

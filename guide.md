@@ -27,7 +27,7 @@ redirect_from:
 
 如果你需要访问境外网站，可以访问[ssrdog的发布站](https://dog1.hosbbq.com "目前可用的SSRDOG最新链接发布站")，ssrdog提供多种代理服务套餐，下至一个月150G，上至三年，并且有按量购买的选择，400RMB即可获得1000G流量，十分划算
 
-发布站超链接可能更新不及时，如果无法访问，可以向[dogsoso@pm.me](mailto:dogsoso@pm.me?subject=%E8%8E%B7%E5%8F%96%E9%93%BE%E6%8E%A5&body=%E6%88%91%E6%83%B3%E8%A6%81%E8%8E%B7%E5%8F%96%E6%9C%80%E6%96%B0%E9%93%BE%E6%8E%A5 "点击后即可立即发送邮件给dogsoso@pm.me")发布任意邮件以获取最新地址
+发布站超链接可能更新不及时，如果无法访问，可以向[dogsoso@pm.me](mailto:dogsoso@pm.me?subject=%E8%8E%B7%E5%8F%96%E9%93%BE%E6%8E%A5&body=%E6%88%91%E6%83%B3%E8%A6%81%E8%8E%B7%E5%8F%96%E6%9C%80%E6%96%B0%E9%93%BE%E6%8E%A5 "点击即可立即发送邮件给dogsoso@pm.me")发布任意邮件以获取最新地址
 
 ---
 
