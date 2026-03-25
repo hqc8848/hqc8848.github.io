@@ -2,11 +2,12 @@
 title: "画师"
 description: 这里存放了一些我找到的或耳闻的画师，有污的也有干净的
 permalink: /collection/artists/
+---
+
 redirect_from:
   - /collection/artist/
   - /artists/
   - /artist/
----
 
 带 \* 表示链接大量缺失（少量缺失者不算），可能需要自行搜索或者其内有链接聚合类链接
 
