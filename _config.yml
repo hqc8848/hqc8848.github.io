@@ -1,6 +1,7 @@
 exclude:
   - README.md
   - LICENSE
+  - /favicon/
 email: 2084751346@qq.com
 theme: jekyll-theme-cayman
 title: 黑青菜
