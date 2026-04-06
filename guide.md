@@ -1,5 +1,5 @@
 ---
-title: "指南"
+title: 指南
 description: 各类资源链接
 permalink: /guide/
 redirect_from:

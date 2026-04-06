@@ -1,5 +1,5 @@
 ---
-title: "加密"
+title: 加密
 description: 通过密文（或者不容易破解的明文）传递信息，保障隐私
 permalink: /encryption/
 redirect_from:

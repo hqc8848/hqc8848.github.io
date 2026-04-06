@@ -1,5 +1,5 @@
 ---
-title: "主页"
+title: 主页
 description: 这里陈列了该网站上的子页面
 permalink: /
 redirect_from:
