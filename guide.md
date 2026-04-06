@@ -21,7 +21,7 @@ redirect_from:
 
 ## 囊中羞涩
 
-如果需要*某些*付费内容，但是没有足够的【大洋】，可以访问[kemono](https://kemono.cr "Kemono")，公开的付费内容档案网站[^1]，囊括[patreon](https://patreon.com "Patreon")、[fanbox](https://fanbox.cc "pixivFANBOX")、[substar](https://subscribestar.com "SubscribeStar")，甚至是[爱发电](https://afdian.com "爱发电")。
+如果需要*某些*付费内容，但是没有足够的【大洋】，可以访问[kemono](https://kemono.cr "Kemono")，公开的付费内容档案网站[^1]，囊括[patreon](https://patreon.com "Patreon")、[fanbox](https://fanbox.cc "pixivFANBOX")、[subsstar](https://subscribestar.com "SubscribeStar")，甚至是[爱发电](https://afdian.com "爱发电")。
 
 ## 与国际接轨
 

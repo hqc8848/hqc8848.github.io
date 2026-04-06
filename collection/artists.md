@@ -18,14 +18,14 @@ redirect_from:
 - What If Animation<br>（[👍红p👍](https://www.patreon.com/WhatifAnimation "Patreon，推荐")、[🌲linktree🌲](https://linktr.ee/wiastories.official "Linktree，链接聚合")、[x](https://x.com/WhatifAnimation "X")）
 - Shiba<br>（[👍红p👍](https://www.patreon.com/shibashiba "Patreon，推荐")、[x](https://x.com/ShibaNSFW "X")）
 - Zyneru<br>（[👍x👍](https://x.com/zyneru "X，推荐")、[kofi](https://ko-fi.com/zyneru "Ko-fi")）
-- *diives<br>（[👍红p👍](https://www.patreon.com/diives "Patreon，推荐")、[🌲linktree🌲](https://linktr.ee/diivesart "Linktree，链接聚合")）
+- Diives<br>（[👍红p👍](https://www.patreon.com/diives "Patreon，推荐")、[🌲linktree🌲](https://linktr.ee/diivesart "Linktree，链接聚合")）
 - JJune<br>（[👍蓝p👍](https://www.pixiv.net/users/2662142 "pixiv，推荐")、[x](https://x.com/WTJJune "X")、[红p](https://www.patreon.com/jjune "Patreon")、[fanbox](https://wtjjune.fanbox.cc "pixivFANBOX")）
-- TWIN<br>（）
-- Cotu<br>（）
-- DoriDoriko<br>（）
-- TonyToran<br>（）
-- Anna Anon<br>（）
-- 逆流茶会<br>（）
+- TWIN<br>（[👍蓝p👍](https://www.pixiv.net/users/8845004 "pixiv，推荐")、[x](https://x.com/TT_Lsh "X")）
+- Cotu<br>（[👍蓝p👍](https://www.pixiv.net/users/5322881 "pixiv，推荐")、[x](https://x.com/COTUdesu "X")、[skeb](https://skeb.jp/@Cotudesu "Skeb")）
+- DoriDoriko<br>（[👍红p👍](https://www.patreon.com/doridoriko "Patreon，推荐")、[x](https://x.com/doridoriko_koi "X")）
+- TonyToran<br>（[👍x👍](https://x.com/tonytoran "X，推荐")、[红p](https://www.patreon.com/tonytoran "Patreon")、[kofi](https://www.ko-fi.com/tonytoran "Ko-fi")）
+- Anna Anon<br>（[👍蓝p👍](https://www.pixiv.net/users/37736420 "pixiv，推荐")、[x](https://x.com/TheSafeAnnaAnon "X")、[fanbox](https://anna-anon.fanbox.cc/ "pixivFANBOX")、[subsstar](https://subscribestar.adult/anna-anon "SubscribeStar.adult")）
+- 逆流茶会<br>（[👍蓝p👍](https://www.pixiv.net/users/50258193 "pixiv，推荐")、[红p](https://www.patreon.com/nlch "Patreon")、[x](https://x.com/niliuchahui "X")、[fanbox](https://nlch.fanbox.cc/ "pixivFANBOX")、[cien](https://ci-en.dlsite.com/creator/24375 "Ci-en")）
 - トプ<br>（[👍蓝p👍](https://www.pixiv.net/users/5850450 "pixiv，推荐")、[x](https://x.com/topu2782 "X")、[fanbox](https://topu.fanbox.cc "pixivFANBOX")）
 - 面具blhazx<br>（）
 - 桜乃実咲<br>（）
@@ -41,3 +41,9 @@ redirect_from:
 - kak0yt0_chel<br>（）
 - yoir<br>（）
 - SlipperyT<br>（）
+- 糖tou<br>（）
+- Misfitbite<br>（）
+- Skuddbutt<br>（）
+- Plantinum W<br>（）
+- MSK<br>（）
+- 幸运fankic<br>（）
