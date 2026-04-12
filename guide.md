@@ -32,3 +32,5 @@ redirect_from:
 你肯定见过猫，也肯定见过HTTP状态码（因为【403 Forbidden】就是一个HTTP状态码），但是其实这两者可以结合，用小哈吉米来表示状态码及其含义
 
 [httpcats](https://http.cat "HTTP Cats")就集合了几乎所有哈吉米状态码梗图，也可以直接在网址后面加上对应的状态码来显示对应的梗图
+
+[鹦鹉](https://cultofthepartyparrot.com "Cult of the Party Parrot")。
