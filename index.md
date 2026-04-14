@@ -10,3 +10,4 @@ redirect_from:
 - [指南大全](/guide/ "各类资源链接集锦") - 各类资源链接集锦
 - [加密沟通](/encryption/ "保障小纸条安全") - 保障小纸条安全
 - [UNO规则](/uno/ "部分UNO版本的规则") - 部分UNO版本的规则
+- [JS工具](/js/ "用JavaScript写成的小工具") - 用JavaScript写成的小工具

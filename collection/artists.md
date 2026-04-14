@@ -4,8 +4,6 @@ description: 这里存放了一些我找到的或耳闻的画师，有污的也�
 permalink: /collection/artists/
 redirect_from:
   - /collection/artist/
-  - /artists/
-  - /artist/
 ---
 
 - あんている<br>（[👍蓝p👍](https://pixiv.net/users/78912866 "pixiv，推荐")、[x](https://x.com/anteiru3939 "X")、[fanbox](https://anteiru03939.fanbox.cc "pixivFANBOX")）
