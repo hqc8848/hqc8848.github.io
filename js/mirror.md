@@ -14,7 +14,7 @@ redirect_from:
 
 原文本：<input type="text" id="input" oninput="compute()" autofocus>
 
-结果：<input type="text" id="output" readonly>
+结果：<input type="text" id="output" readonly> <button onclick="copyText()">复制</button>
 
 <script>
   function compute() {
@@ -29,6 +29,9 @@ redirect_from:
       }
     }
     document.getElementById('output').value = result;
-  }
-  document.getElementById('mode').addEventListener('change', compute);
+  } function copyText() {
+    const input = document.getElementById('myInput');
+    input.select();
+    document.execCommand('copy');
+  } document.getElementById('mode').addEventListener('change', compute);
 </script>
