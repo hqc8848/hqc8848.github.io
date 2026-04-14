@@ -12,7 +12,7 @@ redirect_from:
   <option value="right" selected>镜像右半</option>
 </select>
 
-原文本：<input type="text" id="input" oninput="compute()" autofocus>
+原始文本：<input type="text" id="input" oninput="compute()" autofocus>
 
 结果：<input type="text" id="output" readonly> <button onclick="copyText()">复制</button>
 
