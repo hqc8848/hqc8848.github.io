@@ -29,9 +29,11 @@ redirect_from:
       }
     }
     document.getElementById('output').value = result;
-  } function copyText() {
+  }
+  function copyText() {
     const input = document.getElementById('myInput');
     input.select();
     document.execCommand('copy');
-  } document.getElementById('mode').addEventListener('change', compute);
+  }
+  document.getElementById('mode').addEventListener('change', compute);
 </script>
