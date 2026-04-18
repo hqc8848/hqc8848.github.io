@@ -7,9 +7,15 @@ redirect_from:
 ---
 
 镜像方向：
-<select id="mode">
+<select id="mode" onchange="compute()">
   <option value="left">镜像左半</option>
   <option value="right" selected>镜像右半</option>
+</select>
+
+中心字符：
+<select id="center" onchange="compute()">
+  <option value="skip" selected>不重复（abcd → dcbabcd）</option>
+  <option value="keep">重复（abcd → dcbaabcd）</option>
 </select>
 
 原始文本：<input type="text" id="input" oninput="compute()" autofocus>
@@ -20,20 +26,20 @@ redirect_from:
   function compute() {
     const s = document.getElementById('input').value;
     const isLeft = document.getElementById('mode').value === 'left';
+    const keepCenter = document.getElementById('center').value === 'keep';
     let result = '';
     if (s.length > 0) {
+      const reversed = s.split('').reverse().join('');
       if (isLeft) {
-        result = s + s.split('').reverse().join('').slice(1);
+        result = s + (keepCenter ? reversed : reversed.slice(1));
       } else {
-        result = s.slice(1).split('').reverse().join('') + s;
+        result = (keepCenter ? reversed : reversed.slice(0, -1)) + s;
       }
     }
     document.getElementById('output').value = result;
   }
   function copyText() {
-    const input = document.getElementById('myInput');
-    input.select();
-    document.execCommand('copy');
+    const text = document.getElementById('output').value;
+    navigator.clipboard.writeText(text);
   }
-  document.getElementById('mode').addEventListener('change', compute);
 </script>
