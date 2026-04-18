@@ -14,8 +14,8 @@ redirect_from:
 
 中心字符：
 <select id="center" onchange="compute()">
-  <option value="skip" selected>不重复（abcd → dcbabcd）</option>
-  <option value="keep">重复（abcd → dcbaabcd）</option>
+  <option value="skip" selected>不重复</option>
+  <option value="keep">重复</option>
 </select>
 
 原始文本：<input type="text" id="input" oninput="compute()" autofocus>
