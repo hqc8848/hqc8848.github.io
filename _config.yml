@@ -2,7 +2,7 @@ exclude:
   - README.md
   - LICENSE
 email: 2084751346@qq.com
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 title: 黑青菜
 permalink : pretty
 markdown: kramdown
