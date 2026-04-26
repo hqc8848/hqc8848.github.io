@@ -12,7 +12,7 @@ redirect_from:
 
 双拼是一种比较小众的中文输入法，正因它小众，我们可以用它来传递信息，如下：
 
-![小鹤双拼键位图](https://cdn.jsdelivr.net/gh/hqc8848/assets@main/shuangpin.png "小鹤双拼键位图，取自维基百科")
+![小鹤双拼键位图](https://cdn.jsdelivr.net/gh/hqc8848/assets@main/shuangpin.webp "小鹤双拼键位图，取自维基百科")
 
 *\*如果因网络问题无法查看图片，可以查看上文所述的官网，其中亦有同样的键位图。*
 
