@@ -1,9 +1,9 @@
 ---
-title: 镜像
-description: 文本的镜像翻转实现，可指定方向
-permalink: /js/mirror/
+title: "镜像"
+description: "文本的镜像翻转实现，可指定方向"
+permalink: "/js/mirror/"
 redirect_from:
-  - /js/flip/
+  - "/js/flip/"
 ---
 
 镜像方向：

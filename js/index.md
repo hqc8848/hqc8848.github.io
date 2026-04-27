@@ -1,11 +1,11 @@
 ---
-title: JavaScript
-description: 各种JavaScript写成的小工具<s>，大部分都是AI写的</s>
-permalink: /js/
+title: "JavaScript"
+description: "各种JavaScript写成的小工具~~，大部分都是AI写的~~"
+permalink: "/js/"
 redirect_from:
-  - /js/all/
-  - /js/home/
-  - /js/main/
+  - "/js/all/"
+  - "/js/home/"
+  - "/js/main/"
 ---
 
 此页面用于导航至：

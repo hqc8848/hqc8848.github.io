@@ -1,11 +1,11 @@
 ---
-title: UNO
-description: 部分UNO版本的规则
-permalink: /uno/
+title: "UNO"
+description: "部分UNO版本的规则"
+permalink: "/uno/"
 redirect_from:
-  - /uno/all/
-  - /uno/home/
-  - /uno/main/
+  - "/uno/all/"
+  - "/uno/home/"
+  - "/uno/main/"
 ---
 
 这个页面用于导航至：

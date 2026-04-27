@@ -1,11 +1,11 @@
 ---
-title: 合集
-description: 集合了【403 Forbidden】内容的音视频、图片以及画师
-permalink: /collection/
+title: "合集"
+description: "集合了【403 Forbidden】内容的音视频、图片以及画师"
+permalink: "/collection/"
 redirect_from:
-  - /collection/all/
-  - /collection/home/
-  - /collection/main/
+  - "/collection/all/"
+  - "/collection/home/"
+  - "/collection/main/"
 ---
 
 这个页面用于导航至：

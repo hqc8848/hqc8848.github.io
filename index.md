@@ -1,11 +1,9 @@
 ---
-title: 主页
-description: 这里陈列了该网站上的子页面
-permalink: /
+title: "主页"
+description: "这里陈列了该网站上的子页面"
+permalink: "/"
 redirect_from:
-  - /home/
-sidebar:
-  - text: 本页面陈列了该网站上的子页面，注意避雷
+  - "/home/"
 ---
 
 - [[XX]合集](/collection/ "403 Forbidden】合集") - 【403 Forbidden】合集

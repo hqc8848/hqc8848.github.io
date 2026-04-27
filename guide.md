@@ -1,14 +1,14 @@
 ---
-title: 指南
-description: 各类资源链接
-permalink: /guide/
+title: "指南"
+description: "各类资源链接"
+permalink: "/guide/"
 redirect_from:
-  - /wherecani/
-  - /wheredoi/
-  - /where/
-  - /howcani/
-  - /howdoi/
-  - /how/
+  - "/wherecani/"
+  - "/wheredoi/"
+  - "/where/"
+  - "/howcani/"
+  - "/howdoi/"
+  - "/how/"
 ---
 
 > 以下所有均不保证可以无魔法流畅访问
