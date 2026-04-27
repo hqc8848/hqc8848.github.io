@@ -23,7 +23,7 @@ author:
       url: "weixin://contacts/profile/hqc8848awa"
     - label: "QQ：2084751346"
       icon: "fa-brands fa-qq"
-      url: "mqq://card/show_pslcard?uin=2084751346"
+      url: "mqq://card/show_pslcard?version=1&src_type=internal&source=sharedcard&card_type=person&uin=2084751346"
 defaults:
   - scope:
       path: ""
