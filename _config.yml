@@ -1,21 +1,33 @@
 exclude:
   - README.md
   - LICENSE
-email: 2084751346@qq.com
-remote_theme: "mmistakes/minimal-mistakes@4.28.0"
-title: 黑青菜
+remote_theme: mmistakes/minimal-mistakes@4.28.0
+title: "黑青菜"
 permalink : pretty
 markdown: kramdown
 plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-include-cache
+author:
+  name: "黑青菜"
+  avatar: "https://cdn.jsdelivr.net/gh/hqc8848/assets@main/avatar.webp"
+  bio: "业余IT人，略懂C++/Python，中度使用命令行"
+  location: "江苏苏州"
+  links:
+    - label: "邮箱"
+      icon: "fa-solid fa-envelope"
+      url: "mailto:2084751346@qq.com" 
+    - label: "微信"
+      icon: "fa-brands fa-weixin"
+      url: "hqc8848awa"
+    - label: "QQ"
+      icon: "fa-brands fa-qq"
+      url: "2084751346"
 defaults:
-  # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-      
