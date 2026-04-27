@@ -15,13 +15,15 @@ author:
   bio: "业余IT人，略懂C++/Python，中度使用命令行"
   location: "江苏苏州"
   links:
-    - label: "2084751346@qq.com"
+    - label: "邮箱：2084751346@qq.com"
       icon: "fa-solid fa-envelope"
       url: "mailto:2084751346@qq.com" 
-    - label: "hqc8848awa"
+    - label: "微信：hqc8848awa"
       icon: "fa-brands fa-weixin"
-    - label: "2084751346"
+      url: "weixin://contacts/profile/hqc8848awa"
+    - label: "QQ：2084751346"
       icon: "fa-brands fa-qq"
+      url: "mqq://card/show_pslcard?uin=2084751346"
 defaults:
   - scope:
       path: ""
