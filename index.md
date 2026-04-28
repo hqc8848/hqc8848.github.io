@@ -1,9 +1,11 @@
 ---
 title: "主页"
-description: "这里陈列了该网站上的子页面"
 permalink: "/"
 redirect_from:
   - "/home/"
+sidebar:
+  - title: "---"
+    text: "这里陈列了该网站上的子页面"
 ---
 
 - [[XX]合集](/collection/ "403 Forbidden】合集") - 【403 Forbidden】合集
