@@ -27,7 +27,7 @@ defaults:
 footer:
   links:
     - label: "2084751346@qq.com"
-      icon: "fa-fw fa-soild fa-envelope icon-email"
+      icon: "fa-fw fa-solid fa-envelope icon-email"
       url: "mailto:2084751346@qq.com" 
     - label: "hqc8848awa"
       icon: "fa-fw fa-brands fa-weixin icon-weixin"
