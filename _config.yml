@@ -25,17 +25,14 @@ defaults:
       author_profile: true
 footer:
   links:
-    - label: "RSS"
-      icon: "fas fa-fw fa-rss-square"
-      url: "/feed.xml"
-    - label: "邮箱：2084751346@qq.com"
-      icon: "fa-solid fa-envelope"
+    - label: "2084751346@qq.com"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:2084751346@qq.com" 
-    - label: "微信：hqc8848awa"
-      icon: "fa-brands fa-weixin"
+    - label: "hqc8848awa"
+      icon: "fas fa-fw fa-brands fa-weixin"
       url: "weixin://contacts/profile/hqc8848awa"
-    - label: "QQ：2084751346"
-      icon: "fa-brands fa-qq"
+    - label: "2084751346"
+      icon: "fas fa-fw fa-brands fa-qq"
       url: "mqq://card/show_pslcard?version=1&src_type=internal&source=sharedcard&card_type=person&uin=2084751346"
 sidebar:
   - text: "[[XX]合集](/collection/ \"403 Forbidden】合集\") - 【403 Forbidden】合集"
