@@ -27,13 +27,13 @@ defaults:
 footer:
   links:
     - label: "2084751346@qq.com"
-      icon: "fas fa-fw fa-envelope"
+      icon: "fa-fw fa-soild fa-envelope icon-email"
       url: "mailto:2084751346@qq.com" 
     - label: "hqc8848awa"
-      icon: "fas fa-fw fa-brands fa-weixin"
+      icon: "fa-fw fa-brands fa-weixin icon-weixin"
       url: "weixin://contacts/profile/hqc8848awa"
     - label: "2084751346"
-      icon: "fas fa-fw fa-brands fa-qq"
+      icon: "fa-fw fa-brands fa-qq icon-qq"
       url: "mqq://card/show_pslcard?version=1&src_type=internal&source=sharedcard&card_type=person&uin=2084751346"
 sidebar:
   - text: "[[XX]合集](/collection/ \"403 Forbidden】合集\") - 【403 Forbidden】合集"
