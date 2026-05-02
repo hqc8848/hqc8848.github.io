@@ -18,7 +18,7 @@ author:
   location: "江苏苏州"
 defaults:
   - scope:
-      path: "/_pages/"
+      path: ""
       type: pages
     values:
       layout: single
