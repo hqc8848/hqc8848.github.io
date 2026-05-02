@@ -3,11 +3,10 @@ title: "主页"
 permalink: "/"
 redirect_from:
   - "/home/"
-sidebar:
-  - title: "这里陈列了该网站上的子页面"
+sidebar: false
 ---
 
-该网站上的~~公开~~子页面
+该网站上的~~公开~~子页面：
 
 - [[XX]合集](/collection/ "403 Forbidden】合集") - 【403 Forbidden】合集
 - [指南大全](/guide/ "各类资源链接集锦") - 各类资源链接集锦
