@@ -45,3 +45,5 @@ redirect_from:
 - 幸运fankic<br>（）
 - centurii-chan
 - ためご
+- bonesawbingus
+- Rina_AI
