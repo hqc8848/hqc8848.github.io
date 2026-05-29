@@ -47,3 +47,4 @@ redirect_from:
 - ためご
 - bonesawbingus
 - Rina_AI
+- やこぶ

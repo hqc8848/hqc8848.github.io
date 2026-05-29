@@ -13,6 +13,10 @@ redirect_from:
 
 > 以下所有均不保证可以无魔法流畅访问
 
+## 在线小游戏
+
+[4399](https://4399.cn/ "四三九九游戏盒官方网站")无需多言，神本无相，[poki](https://poki.com/zh "Poki官方网站")主要是作为4399的无需实名的代替版
+
 ## 解决生理需求
 
 如果不知道要到哪里找【403 Forbidden】，可以访问[theporndude](https://theporndude.com "The Porn Dude")或其[中文分站](https://theporndude.com/zh "The Porn Dude Chinese")（包含国内链接）
