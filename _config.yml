@@ -17,6 +17,16 @@ author:
   avatar: "https://cdn.jsdelivr.net/gh/hqc8848/assets@main/avatar.webp"
   bio: "业余IT人，略懂C++/Python，中度使用命令行"
   location: "江苏苏州"
+  links:
+    - label: "2084751346@qq.com"
+      icon: "fa-fw fa-solid fa-envelope"
+      url: "mailto:2084751346@qq.com" 
+    - label: "hqc8848awa"
+      icon: "fa-fw fa-brands fa-weixin"
+      url: "weixin://contacts/profile/hqc8848awa"
+    - label: "2084751346"
+      icon: "fa-fw fa-brands fa-qq"
+      url: "mqq://card/show_pslcard?version=1&src_type=internal&source=sharedcard&card_type=person&uin=2084751346"
 defaults:
   - scope:
       path: ""
