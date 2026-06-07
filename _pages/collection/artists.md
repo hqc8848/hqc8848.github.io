@@ -4,6 +4,8 @@ description: "这里存放了一些我找到的或耳闻的画师，有污的也
 permalink: "/collection/artists/"
 redirect_from:
   - "/collection/artist/"
+  - "/collect/artists/"
+  - "/collect/artist/"
 ---
 
 - あんている<br>（[👍蓝p👍](https://pixiv.net/users/78912866 "pixiv，推荐")、[x](https://x.com/anteiru3939 "X")、[fanbox](https://anteiru03939.fanbox.cc "pixivFANBOX")）
@@ -47,4 +49,4 @@ redirect_from:
 - ためご
 - bonesawbingus
 - Rina_AI
-- やこぶ
+- やこぶ<br>（[👍蓝p👍](https://www.pixiv.net/users/6021189 "pixiv，推荐")、[fanbox](https://yakob.fanbox.cc "pixivFANBOX")、[x](https://x.com/yakob_labo "X")）

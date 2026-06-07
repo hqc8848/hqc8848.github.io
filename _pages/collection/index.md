@@ -6,6 +6,10 @@ redirect_from:
   - "/collection/all/"
   - "/collection/home/"
   - "/collection/main/"
+  - "/collect/"
+  - "/collect/all/"
+  - "/collect/home/"
+  - "/collect/main/"
 ---
 
 这个页面用于导航至：
